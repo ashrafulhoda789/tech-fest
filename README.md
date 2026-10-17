@@ -6,7 +6,7 @@ A high-performance, full-stack event management platform built on an edge-first 
 
 ## Live Demo
 
-- **Live Site:** [https://event-management-client.asrafulhoda789.workers.dev](https://event-management-client.asrafulhoda789.workers.dev)
+- **Live Site:** [https://tech-fest.asrafulhoda789.workers.dev](https://tech-fest.asrafulhoda789.workers.dev)
 
 ##  Tech Stack& NPM Packages Used
 
