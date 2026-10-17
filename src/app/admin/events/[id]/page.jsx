@@ -124,6 +124,7 @@ export default function EditFestPage() {
         }
     };
 
+    
     if (loading) {
         return (
             <div className="min-h-screen flex items-center justify-center bg-[#F5F2EB] dark:bg-[#12161F]">
