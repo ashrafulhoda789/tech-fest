@@ -143,7 +143,7 @@ export default function EditFestPage() {
                 <div className="w-full h-full border border-[#D6CDBC] dark:border-white/10 bg-white overflow-hidden">
                     <iframe
                         ref={websitePreviewRef}
-                        src="https://event-management-client.asrafulhoda789.workers.dev/events"
+                        src="https://tech-fest.asrafulhoda789.workers.dev/events"
                         title="Live Website Preview"
                         className="w-full h-full border-0"
                     />
